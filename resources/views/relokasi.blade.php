@@ -18,6 +18,11 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="assets/css/styles.css" rel="stylesheet" />
+    <script>
+        $(function() {
+            $("#gis").load("../assets/sig/tes.html");
+        });
+    </script>
 </head>
 
 <body id="page-top">
@@ -41,47 +46,13 @@
         <div class="container px-4 px-lg-5">
             <h1 style="text-align: center;">Sebaran Lahan Untuk Relokasi</h1>
             <hr class="divider">
-            <div class="row">
-                <div class="col">
-                    <div class="row">
-                        <div class="col-xl align-items-center justify-content-end" style="text-align: end;">
-                            <div class="container px-3 px-lg-4">
-                                <div class="row">
-                                    <div class="col-lg-4 align-items-center justify-content-end" style="text-align: end;">
-                                        <a class="btn mt-3 " href="/pk" style="width:150px;height:40px;border-radius: 15px; background:#36A5B2; color:#DFFAF3;margin-right:150px;">
-                                            <p class="align-items-center" style="justify-content:center;">Kedaton</p>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-4 align-items-center justify-content-end" style="text-align: end;">
-                                        <a class="btn mt-3 " href="/pk" style="width:150px;height:40px;border-radius: 15px; background:#36A5B2; color:#DFFAF3;margin-right:150px;">
-                                            <p class="align-items-center" style="justify-content:center;">Kedaton</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="container px-4 px-lg-5">
+                <div class="row">
+
+                    <div class="col col border border-dark">
+                        <iframe src="../assets/gis/index.html" width="1220" height="500" frameborder="5"></iframe>
+
                     </div>
-                    <div class="row">
-                        <div class="col-xl align-items-center justify-content-end" style="text-align: end;">
-                            <div class="container px-3 px-lg-4">
-                                <div class="row">
-                                    <div class="col-lg-4 align-items-center justify-content-end" style="text-align: end;">
-                                        <a class="btn mt-3 " href="/pk" style="width:150px;height:40px;border-radius: 25px; background:#36A5B2; color:#DFFAF3;margin-right:150px;">
-                                            <p class="align-items-center" style="justify-content:center;">Kedaton</p>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-4 align-items-center justify-content-end" style="text-align: end;">
-                                        <a class="btn mt-3 " href="/pk" style="width:150px;height:40px;border-radius: 25px; background:#36A5B2; color:#DFFAF3;margin-right:150px;">
-                                            <p class="align-items-center" style="justify-content:center;">Kedaton</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <p>Disini letak Maps</p>
                 </div>
             </div>
         </div>
