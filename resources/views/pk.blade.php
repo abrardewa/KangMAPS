@@ -44,7 +44,7 @@
             <div class="row">
 
                 <div class="col col border border-dark">
-                    <iframe src="../assets/gis2/index.html" width="1220" height="500" frameborder="5"></iframe>
+                    <iframe src="../assets/kumuh/index.html" width="1220" height="500" frameborder="5"></iframe>
 
                 </div>
             </div>
