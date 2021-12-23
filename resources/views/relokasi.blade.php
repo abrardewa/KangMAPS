@@ -51,7 +51,7 @@
 
                     <div class="col col border border-dark">
 
-                        <iframe src="../assets/relokasi/index.html" width="1220" height="500" frameborder="5"></iframe>
+                        <iframe src="../assets/relokasi/index.html" width="1125" height="520" frameborder="5"></iframe>
 
                     </div>
                 </div>
