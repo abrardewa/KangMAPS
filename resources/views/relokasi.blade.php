@@ -64,6 +64,25 @@
         </div>
         </div>
     </section>
+    <section class="page-section">
+        <div class="container px-4 px-lg-5">
+            <div>
+                <h2 style="align-items: center;">Relokasi</h2>
+                <div class="row gx-4 gx-lg-5 mt-5">
+                    <p style="margin-left:330px;"><img src="../assets/assets/img/Strategi-Penataan-Kawasan-dengan-Konsep-Collective-Housing.jpg" alt="relokasi"></p>
+                </div>
+                <div class="container px-lg-3 mt-5" style="width:1000px;height:1000px;">
+                    <p style="text-align: justify;" class="h6 mb-2">
+                        Relokasi atau resettlement merupakan salah satu alternatif untuk memberikan kesempatan kepada masyarakat yang tinggal di kawasan permukiman kumuh, status lahannya ilegal, atau bermukim di lingkungan yang rawan bencana untuk menata kembali dan melanjutkan kehidupan di tempat yang baru. Berbeda dengan rekonstruksi, lokasi relokasi bisa dekat atau terkadang jauh dari komunitas yang ada, peluang kerja, struktur pendukung dan sekolah. Dalam kasus ini, anggota masyarakat yang ingin mempertahankan pekerjaan lama atau bersekolah di sekolah yang sama harus menanggung beban tambahan waktu dan biaya perjalanan dan harus menyesuaikan diri dengan lingkungan baru.
+                    </p>
+                    <br>
+                    <p>
+                        Adanya relokasi ini memungkinkan masyarakat untuk memiliki sebuah tempat tinggal secara lebih aman karena mereka memiliki hak tersendiri atas tanahnya di lokasi yang baru. Namun tantangan yang harus dihadapi adalah, masyarakat harus mau menyediakan biaya yang cukup untuk mengganti biaya pembangunan kembali rumah mereka di lokasi yang baru dan juga biaya tambahan pembelian lahan.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Footer-->
     <footer class="bg-light py-5">
