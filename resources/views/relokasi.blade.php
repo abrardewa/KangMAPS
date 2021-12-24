@@ -56,10 +56,10 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div>
-            <div class="container px-4 px-lg-5">
-                <p>Source Lahan Relokasi Kota Bandar Lampung 2020</p>
+            <div>
+                <div class="container px-4 px-lg-5">
+                    <p>Source Permukiman Kumuh Kota Bandar Lampung 2020</p>
+                </div>
             </div>
         </div>
         </div>
