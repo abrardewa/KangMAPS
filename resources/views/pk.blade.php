@@ -38,7 +38,7 @@
     </nav>
     <!-- About-->
     <section class="page-section" style="background: #DFFAF3;" id="pk">
-        <h1 style="text-align: center;">Sebaran Permukiman Kumuh</h1>
+        <h1 style="text-align: center;">Permukiman Kumuh Kota Bandar Lampung</h1>
         <hr class="divider">
         <div class="container px-4 px-lg-5">
             <div class="row">
@@ -49,6 +49,49 @@
                 </div>
             </div>
         </div>
+        <div>
+            <div class="container px-4 px-lg-5">
+                <h5>Source Permukiman Kumuh Kota Bandar Lampung 2020</h5>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-section">
+        <div class="container px-4 px-lg-5">
+            <div>
+                <h2 style="align-items: center;">Permukiman Kumuh</h2>
+                <div class="row gx-4 gx-lg-5 mt-4">
+                    <div class="col-lg-3 col-lg-4 text-center">
+                        <div style="margin-top: 1.6rem;">
+                            <div class="mb-2"><img src="../assets/assets/img/pk1.svg" alt="pk1"></div>
+                            <p></p>
+                            <h3 class="h6 mb-2">Tingginya Kepadatan Penduduk</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-lg-4 text-center">
+                        <div class="mt-4">
+                            <div class="mb-2"><img src="../assets/assets/img/pk2.svg" alt="pk2"></div>
+                            <h3 class="h6 mb-2">Kualitas Sarana Prasarana Tidak Memenuhi Syarat </h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-lg-4 text-center">
+                        <div class="mt-4">
+                            <div class="mb-2"><img src="../assets/assets/img/pk3.svg" alt="pk3"></i></div>
+                            <p></p>
+                            <h3 class="h6 mb-2">Tingginya Kepadatan Bangunan</h3>
+                        </div>
+                    </div>
+                </div>
+                <h4 style="text-align: justify;">Menurut Surat Keputusan (SK) Walikota Bandarlampung
+                    Nomor: 974/IV.32/2014 tentang Penetapan Lokasi Perumahan dan
+                    Permukiman Kumuh di Kota Bandarlampung bahwa ada 26 kelurahan di
+                    Kota Bandarlampung yang ditetapkan menjadi daerah kumuh. Dalam hal ini,
+                    Kelurahan Kangkung menjadi kelurahan paling kumuh dengan luas kumuh 21,03
+                    ha. Persentase luas permukiman kumuh di Kelurahan Kangkung mencapai 20%
+                    dari total kumuh di Bandarlampung. Selain itu Kelurahan Kangkung merupakan
+                    salah satu kelurahan terpadat di Kota Bandarlampung dengan kepadatan mencapai
+                    47,238 jiwa/km².</h4>
+            </div>
         </div>
     </section>
 
