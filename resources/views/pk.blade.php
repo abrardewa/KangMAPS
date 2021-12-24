@@ -51,7 +51,7 @@
         </div>
         <div>
             <div class="container px-4 px-lg-5">
-                <h5>Source Permukiman Kumuh Kota Bandar Lampung 2020</h5>
+                <p>Source Permukiman Kumuh Kota Bandar Lampung 2020</p>
             </div>
         </div>
     </section>
@@ -60,7 +60,7 @@
         <div class="container px-4 px-lg-5">
             <div>
                 <h2 style="align-items: center;">Permukiman Kumuh</h2>
-                <div class="row gx-4 gx-lg-5 mt-4">
+                <div class="row gx-4 gx-lg-5 mt-5">
                     <div class="col-lg-3 col-lg-4 text-center">
                         <div style="margin-top: 1.6rem;">
                             <div class="mb-2"><img src="../assets/assets/img/pk1.svg" alt="pk1"></div>
@@ -82,15 +82,17 @@
                         </div>
                     </div>
                 </div>
-                <h4 style="text-align: justify;">Menurut Surat Keputusan (SK) Walikota Bandarlampung
-                    Nomor: 974/IV.32/2014 tentang Penetapan Lokasi Perumahan dan
-                    Permukiman Kumuh di Kota Bandarlampung bahwa ada 26 kelurahan di
-                    Kota Bandarlampung yang ditetapkan menjadi daerah kumuh. Dalam hal ini,
-                    Kelurahan Kangkung menjadi kelurahan paling kumuh dengan luas kumuh 21,03
-                    ha. Persentase luas permukiman kumuh di Kelurahan Kangkung mencapai 20%
-                    dari total kumuh di Bandarlampung. Selain itu Kelurahan Kangkung merupakan
-                    salah satu kelurahan terpadat di Kota Bandarlampung dengan kepadatan mencapai
-                    47,238 jiwa/km².</h4>
+                <div class="container px-lg-3 mt-5" style="width:1000px;height:1000px;">
+                    <p style="text-align: justify;" class="h6 mb-2">Menurut Surat Keputusan (SK) Walikota Bandarlampung
+                        Nomor: 974/IV.32/2014 tentang Penetapan Lokasi Perumahan dan
+                        Permukiman Kumuh di Kota Bandarlampung bahwa ada 26 kelurahan di
+                        Kota Bandarlampung yang ditetapkan menjadi daerah kumuh. Dalam hal ini,
+                        Kelurahan Kangkung menjadi kelurahan paling kumuh dengan luas kumuh 21,03
+                        ha. Persentase luas permukiman kumuh di Kelurahan Kangkung mencapai 20%
+                        dari total kumuh di Bandarlampung. Selain itu Kelurahan Kangkung merupakan
+                        salah satu kelurahan terpadat di Kota Bandarlampung dengan kepadatan mencapai
+                        47,238 jiwa/km².</p>
+                </div>
             </div>
         </div>
     </section>
